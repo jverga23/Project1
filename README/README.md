@@ -60,8 +60,8 @@ A summary of the access policies in place can be found in the table below.
 |----------|---------------------|----------------------|
 | Jump Box | Yes                 | Home IP              |
 | VM1      | No                  | 10.0.0.4             |
-| VM2        No                    10.0.0.4 
-| Elk      | No                  | 10.0.0.4 
+| VM2      | No                  |  10.0.0.4            |
+| Elk      | No                  | 10.0.0.4             |
 
 ### Elk Configuration
 
